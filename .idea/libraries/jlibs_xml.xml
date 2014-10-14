@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jlibs-xml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jlibs-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jlibs-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

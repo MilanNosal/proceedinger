@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<papers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://kpi.fei.tuke.sk/scyr/nosal/papers"
+        xsi:schemaLocation="http://kpi.fei.tuke.sk/scyr/nosal/papers papers.xsd">
+   <paper filename="3.pdf">
+      <authors>
+         <author>
+            <firstName>Ján</firstName>
+            <surname>Bačík</surname>
+         </author>
+      </authors>
+      <title>Development of the Unmanned Helicopter</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electrical Engineering and Mechatronics</department>
+   </paper>
+   <paper filename="4.pdf">
+      <authors>
+         <author>
+            <firstName>Roman</firstName>
+            <surname>Jakubčák</surname>
+         </author>
+      </authors>
+      <title>Possibilities of using FACTS devices to minimize active power losses in power system</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="5.pdf">
+      <authors>
+         <author>
+            <firstName>Tomas</firstName>
+            <surname>Kosicky</surname>
+         </author>
+      </authors>
+      <title>Analysis of utilization energy storage systems for frequency regulation</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="6.pdf">
+      <authors>
+         <author>
+            <firstName>Jozef</firstName>
+            <surname>Lipták</surname>
+         </author>
+      </authors>
+      <title>Ubi es et quo vadis Jozef Lipták</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="7.pdf">
+      <authors>
+         <author>
+            <firstName>Lukáš</firstName>
+            <surname>Lisoň</surname>
+         </author>
+      </authors>
+      <title>Research of oil paper insulation system</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="8.pdf">
+      <authors>
+         <author>
+            <firstName>Miroslav</firstName>
+            <surname>Kmec</surname>
+         </author>
+      </authors>
+      <title>Impact of FACTS devices on performance distance relay</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="9.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Heretik</surname>
+         </author>
+      </authors>
+      <title>Voltage Conditions and Dynamic Behavior at Motor Starting in Nuclear Power Plants</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="11.pdf">
+      <authors>
+         <author>
+            <firstName>Marek</firstName>
+            <surname>Pástor</surname>
+         </author>
+      </authors>
+      <title>Compensation for Voltage Drop of Multilevel Cascade H-bridge Inverter</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electrical Engineering and Mechatronics</department>
+   </paper>
+   <paper filename="12.pdf">
+      <authors>
+         <author>
+            <firstName>Jozef</firstName>
+            <surname>Király</surname>
+         </author>
+      </authors>
+      <title>Thermal Degradation of liquid colloidal insulation materials for HV devices</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="14.pdf">
+      <authors>
+         <author>
+            <firstName>Michaela</firstName>
+            <surname>Bačíková</surname>
+         </author>
+      </authors>
+      <title>Experiments in Domain Analysis of Graphical User Interfaces</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="15.pdf">
+      <authors>
+         <author>
+            <firstName>Ondrej</firstName>
+            <surname>Kainz</surname>
+         </author>
+      </authors>
+      <title>Bio-signals in Computer Science: Their analysis, utilization and processing</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="16.pdf">
+      <authors>
+         <author>
+            <firstName>Martin</firstName>
+            <surname>Ploth</surname>
+         </author>
+      </authors>
+      <title>A Review of Issue of Valuations Transmission Services in Restructured Electricity Market</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="17.pdf">
+      <authors>
+         <author>
+            <firstName>Martin</firstName>
+            <surname>Sulír</surname>
+         </author>
+      </authors>
+      <title>Speaker Dependent HMM-based Speech Synthesis for Slovak Language</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="18.pdf">
+      <authors>
+         <author>
+            <firstName>Matúš</firstName>
+            <surname>Tatarko</surname>
+         </author>
+      </authors>
+      <title>Increasing the Availability of FSO Systems by RF Back-up Link</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="19.pdf">
+      <authors>
+         <author>
+            <firstName>Tomáš</firstName>
+            <surname>Harasthy</surname>
+         </author>
+      </authors>
+      <title>Joint Transform Correlator in Driver Assistance System</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="20.pdf">
+      <authors>
+         <author>
+            <firstName>Milan</firstName>
+            <surname>Nosáľ</surname>
+         </author>
+      </authors>
+      <title>Attribute-oriented Programming and Metaprogramming</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="22.pdf">
+      <authors>
+         <author>
+            <firstName>Martina</firstName>
+            <surname>Tarhaničová</surname>
+         </author>
+      </authors>
+      <title>Use of  Emotion Detection from Text in Human-robot Interaction</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="23.pdf">
+      <authors>
+         <author>
+            <firstName>Lenka</firstName>
+            <surname>Macková</surname>
+         </author>
+      </authors>
+      <title>Speech Emotion Recognition</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="24.pdf">
+      <authors>
+         <author>
+            <firstName>Marek</firstName>
+            <surname>Pavlík</surname>
+         </author>
+      </authors>
+      <title>Measuring of shielding effectiveness of electromagnetic field</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="25.pdf">
+      <authors>
+         <author>
+            <firstName>Lukáš</firstName>
+            <surname>Štefanský</surname>
+         </author>
+      </authors>
+      <title>Web preferences e-shops using robust fuzzy discrete dynamic systems</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Mathematics and Theoretical Informatics</department>
+   </paper>
+   <paper filename="26.pdf">
+      <authors>
+         <author>
+            <firstName>Ján</firstName>
+            <surname>Pastirčák</surname>
+         </author>
+      </authors>
+      <title>Spectrum Trading in Dynamic Spectrum Access: A Review</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="27.pdf">
+      <authors>
+         <author>
+            <firstName>Viktória</firstName>
+            <surname>Šuhajová</surname>
+         </author>
+      </authors>
+      <title>Magnetic Properties of Thin Ferromagnetic Wires</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Physics</department>
+   </paper>
+   <paper filename="28.pdf">
+      <authors>
+         <author>
+            <firstName>Daniel</firstName>
+            <surname>Lorenčík</surname>
+         </author>
+      </authors>
+      <title>Cloud-based object recognition</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="29.pdf">
+      <authors>
+         <author>
+            <firstName>Vladimír</firstName>
+            <surname>Gašpar</surname>
+         </author>
+      </authors>
+      <title>Utilization of key performance indicators in assessment of operational efficiency</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="30.pdf">
+      <authors>
+         <author>
+            <firstName>Martin</firstName>
+            <surname>German-Sobek</surname>
+         </author>
+      </authors>
+      <title>Dielectric Relaxation Spectroscopy of XLPE Cables in Time and Frequency Domain</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="31.pdf">
+      <authors>
+         <author>
+            <firstName>Ján</firstName>
+            <surname>Hurtuk</surname>
+         </author>
+      </authors>
+      <title>Malware categorization and recognition problem</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="32.pdf">
+      <authors>
+         <author>
+            <firstName>Ondrej</firstName>
+            <surname>Kováč</surname>
+         </author>
+      </authors>
+      <title>Generating and smoothing of 3D human head textures and estimation of its spatial coordinates</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="33.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Kažimír</surname>
+         </author>
+      </authors>
+      <title>Localisation of Moving and Static Persons in 3D Space: State-of-the Art</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="34.pdf">
+      <authors>
+         <author>
+            <firstName>Ján</firstName>
+            <surname>Forgáč</surname>
+         </author>
+         <author>
+            <firstName>Ondrej</firstName>
+            <surname>Kainz</surname>
+         </author>
+      </authors>
+      <title>Web-based Interactive Interface for Presentation and Monitoring of the Network Laboratory Environment</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="35.pdf">
+      <authors>
+         <author>
+            <firstName>Michal</firstName>
+            <surname>Kolcun</surname>
+         </author>
+      </authors>
+      <title>System Balancing of Transmission System Using Voltage Regulation in Distribution Networks</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="36.pdf">
+      <authors>
+         <author>
+            <firstName>Patrik</firstName>
+            <surname>Švrlo</surname>
+         </author>
+         <author>
+            <firstName>Ivan</firstName>
+            <surname>Halupka</surname>
+         </author>
+      </authors>
+      <title>Visual-oriented Development Environment for Mobile Devices</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="37.pdf">
+      <authors>
+         <author>
+            <firstName>Jan</firstName>
+            <surname>Toth</surname>
+         </author>
+      </authors>
+      <title>Investigation of Nonlinear Degradation Phenomena in PONs with Consideration to WDM</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="38.pdf">
+      <authors>
+         <author>
+            <firstName>Ján</firstName>
+            <surname>Ružbarský</surname>
+         </author>
+      </authors>
+      <title>Influence of Degradation Mechanisms in a Fully Optical Fiber Communication Systems</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="39.pdf">
+      <authors>
+         <author>
+            <firstName>Zsolt</firstName>
+            <surname>Čonka</surname>
+         </author>
+      </authors>
+      <title>Research of special equipment designed to improve transient stability of power systems.</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="40.pdf">
+      <authors>
+         <author>
+            <firstName>Matúš</firstName>
+            <surname>Novák</surname>
+         </author>
+      </authors>
+      <title>Research on transient performance of interconnected power system</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="41.pdf">
+      <authors>
+         <author>
+            <firstName>Ján</firstName>
+            <surname>Zbojovský</surname>
+         </author>
+      </authors>
+      <title>Modelling the distribution of electromagnetic field and the possibilities how to shield it</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="42.pdf">
+      <authors>
+         <author>
+            <firstName>Lukáš</firstName>
+            <surname>Hubač</surname>
+         </author>
+      </authors>
+      <title>Experimental Measurements and Results Obtained during 2nd Year of my Postgraduate Study</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Physics</department>
+   </paper>
+   <paper filename="43.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Michalik</surname>
+         </author>
+      </authors>
+      <title>Design of Procedure for Solving Big Data Problems</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="44.pdf">
+      <authors>
+         <author>
+            <firstName>Ján</firstName>
+            <surname>Štofa</surname>
+         </author>
+      </authors>
+      <title>Process Modeling of Security and its Impact on Overall Business Strategy</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="45.pdf">
+      <authors>
+         <author>
+            <firstName>Tomáš</firstName>
+            <surname>Lojka</surname>
+         </author>
+      </authors>
+      <title>Sensor networks autonomy</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="46.pdf">
+      <authors>
+         <author>
+            <firstName>Jozef</firstName>
+            <surname>Vavrek</surname>
+         </author>
+      </authors>
+      <title>Automatic Audio Query Retrieving</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="47.pdf">
+      <authors>
+         <author>
+            <firstName>Daniel</firstName>
+            <surname>Zlacký</surname>
+         </author>
+      </authors>
+      <title>Text categorization in automatic speech recognition systems</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="48.pdf">
+      <authors>
+         <author>
+            <firstName>Lukáš</firstName>
+            <surname>Sendrei</surname>
+         </author>
+      </authors>
+      <title>Multicarrier systems for next generation communication networks</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="49.pdf">
+      <authors>
+         <author>
+            <firstName>Miroslav</firstName>
+            <surname>Mikita</surname>
+         </author>
+      </authors>
+      <title>Optimization renewable energy sources system</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="50.pdf">
+      <authors>
+         <author>
+            <firstName>Radovan</firstName>
+            <surname>Sivý</surname>
+         </author>
+      </authors>
+      <title>Graphical User Interface for Kinect based on LabVIEW environment</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electrical Engineering and Mechatronics</department>
+   </paper>
+   <paper filename="51.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Kurimský</surname>
+         </author>
+      </authors>
+      <title>Measuring of electromagnetic fields in anechoic chamber</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="52.pdf">
+      <authors>
+         <author>
+            <firstName>Tibor</firstName>
+            <surname>Rovensky</surname>
+         </author>
+      </authors>
+      <title>Contribution to Analysis of High Frequency Elements from the View of Different Materials and Technologies Applications’</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Technologies in Electronics</department>
+   </paper>
+   <paper filename="53.pdf">
+      <authors>
+         <author>
+            <firstName>Kornel</firstName>
+            <surname>Ruman</surname>
+         </author>
+      </authors>
+      <title>Contribution to  Analysis of Microstrip Filters for  UWB Sensor Systems Based on LTCC</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Technologies in Electronics</department>
+   </paper>
+   <paper filename="54.pdf">
+      <authors>
+         <author>
+            <firstName>Jaroslav</firstName>
+            <surname>Lamer</surname>
+         </author>
+      </authors>
+      <title>Anomaly detection in visually captured human actions</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="55.pdf">
+      <authors>
+         <author>
+            <firstName>Ján</firstName>
+            <surname>Perduľak</surname>
+         </author>
+      </authors>
+      <title>Analogue Pulse Generator for Novel Multi-leg BROSKOV Converter</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Theoretical and Industrial Electrical Engineering</department>
+   </paper>
+   <paper filename="56.pdf">
+      <authors>
+         <author>
+            <firstName>Viktor</firstName>
+            <surname>Šlapák</surname>
+         </author>
+      </authors>
+      <title>Transmission Nonlinearities in Servodrives</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electrical Engineering and Mechatronics</department>
+   </paper>
+   <paper filename="57.pdf">
+      <authors>
+         <author>
+            <firstName>Michal</firstName>
+            <surname>Kovalcik</surname>
+         </author>
+      </authors>
+      <title>Adding intelligence, flexibility and efficiency into operation of home appliances in smart homes</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="58.pdf">
+      <authors>
+         <author>
+            <firstName>Samuel</firstName>
+            <surname>Bucko</surname>
+         </author>
+      </authors>
+      <title>Dielectric Relaxation Spectroscopy of Isolation Liquids in Transformers</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="59.pdf">
+      <authors>
+         <author>
+            <firstName>Tomáš</firstName>
+            <surname>Cádrik</surname>
+         </author>
+      </authors>
+      <title>Multi-agent Robot System based on Cloud Computing</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="60.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Duranka</surname>
+         </author>
+      </authors>
+      <title>Experimental Measurements and Results Obtained During PhD Study</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Physics</department>
+   </paper>
+   <paper filename="61.pdf">
+      <authors>
+         <author>
+            <firstName>Marek</firstName>
+            <surname>Vacek</surname>
+         </author>
+      </authors>
+      <title>Modeling and Control of an Experimental Seriallink Robot Manipulator</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electrical Engineering and Mechatronics</department>
+   </paper>
+   <paper filename="62.pdf">
+      <authors>
+         <author>
+            <firstName>Martin</firstName>
+            <surname>Varga</surname>
+         </author>
+      </authors>
+      <title>Augmented reality with tracking system</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="63.pdf">
+      <authors>
+         <author>
+            <firstName>Gergely</firstName>
+            <surname>Magyar</surname>
+         </author>
+      </authors>
+      <title>Social Learning: A New Paradigm for Learning Systems</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="64.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Koncz</surname>
+         </author>
+      </authors>
+      <title>Facilitation of corpora creation for  sentiment analysis</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="65.pdf">
+      <authors>
+         <author>
+            <firstName>Jozef</firstName>
+            <surname>Dziak</surname>
+         </author>
+      </authors>
+      <title>Linear circuit simulation using MATLAB and modeling of nonlinear elements</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Theoretical and Industrial Electrical Engineering</department>
+   </paper>
+   <paper filename="66.pdf">
+      <authors>
+         <author>
+            <firstName>Alexandra</firstName>
+            <surname>Lukáčová</surname>
+         </author>
+      </authors>
+      <title>Mining Frequent Patterns in Data Streams from Production</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="67.pdf">
+      <authors>
+         <author>
+            <firstName>Martin</firstName>
+            <surname>Grekšo</surname>
+         </author>
+      </authors>
+      <title>Sound synthesis through simulation</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="68.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Fanfara</surname>
+         </author>
+      </authors>
+      <title>Data Gathering Process for Autonomous Feature of Hybrid Honeypot Technology</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="69.pdf">
+      <authors>
+         <author>
+            <firstName>Eva</firstName>
+            <surname>Turňová</surname>
+         </author>
+      </authors>
+      <title>Introduction to Big Data</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="70.pdf">
+      <authors>
+         <author>
+            <firstName>Martina</firstName>
+            <surname>Benčková</surname>
+         </author>
+      </authors>
+      <title>A new approach to the interactions in component- oriented programming</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="71.pdf">
+      <authors>
+         <author>
+            <firstName>Cecília</firstName>
+            <surname>Havrilová</surname>
+         </author>
+      </authors>
+      <title>Process mining techniques for off-line and on-line event logs analysis</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="72.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Lukács</surname>
+         </author>
+      </authors>
+      <title>Active Circuit Components of UWB Radar Based on Organic Electronics</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Technologies in Electronics</department>
+   </paper>
+   <paper filename="73.pdf">
+      <authors>
+         <author>
+            <firstName>Dominik</firstName>
+            <surname>Lakatoš</surname>
+         </author>
+      </authors>
+      <title>Review of computer language composition based on metamodels</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="74.pdf">
+      <authors>
+         <author>
+            <firstName>Pavol</firstName>
+            <surname>Liščinský</surname>
+         </author>
+      </authors>
+      <title>Description of Fault Detection Based on Linear Quadratic Control Performance</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="75.pdf">
+      <authors>
+         <author>
+            <firstName>Martin</firstName>
+            <surname>Paľa</surname>
+         </author>
+      </authors>
+      <title>Smart Hydroponic Automation Platform</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="76.pdf">
+      <authors>
+         <author>
+            <firstName>Magdaléna</firstName>
+            <surname>Uhrínová</surname>
+         </author>
+      </authors>
+      <title>The 4th Year of Postgraduate Study of Polypropylene  by Solid State 13C NMR</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Physics</department>
+   </paper>
+   <paper filename="77.pdf">
+      <authors>
+         <author>
+            <firstName>Ján</firstName>
+            <surname>Schneider</surname>
+         </author>
+      </authors>
+      <title>UWB low profile antennas: State-of-the art</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="78.pdf">
+      <authors>
+         <author>
+            <firstName>Vladimír</firstName>
+            <surname>Serbák</surname>
+         </author>
+      </authors>
+      <title>On Control Reconfiguration of FTCS</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="79.pdf">
+      <authors>
+         <author>
+            <firstName>Martin</firstName>
+            <surname>Petrvalský</surname>
+         </author>
+      </authors>
+      <title>Differential power analysis attacks on embedded devices</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="80.pdf">
+      <authors>
+         <author>
+            <firstName>Marek</firstName>
+            <surname>Godla</surname>
+         </author>
+      </authors>
+      <title>Method of analysis of excitation signal for ADC testing</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="81.pdf">
+      <authors>
+         <author>
+            <firstName>Attila</firstName>
+            <surname>Jakab</surname>
+         </author>
+         <author>
+            <firstName>Roman</firstName>
+            <surname>Vápeník</surname>
+         </author>
+      </authors>
+      <title>Using modern streaming technologies for high quality and performance-oriented live streaming</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="82.pdf">
+      <authors>
+         <author>
+            <firstName>Martin</firstName>
+            <surname>Broda</surname>
+         </author>
+      </authors>
+      <title>Stegnalysis in Static Images</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="83.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Strnisko</surname>
+         </author>
+      </authors>
+      <title>Optical Wireless Communication Systems</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="84.pdf">
+      <authors>
+         <author>
+            <firstName>Ladislav</firstName>
+            <surname>Nyulászi</surname>
+         </author>
+      </authors>
+      <title>Health Management Techniques for Aircraft Turbojet Engine</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="85.pdf">
+      <authors>
+         <author>
+            <firstName>Dominik</firstName>
+            <surname>Demeter</surname>
+         </author>
+      </authors>
+      <title>Virtual Technological Laboratory for the e-Learning education of the assembling technologies in electronics</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Technologies in Electronics</department>
+   </paper>
+   <paper filename="86.pdf">
+      <authors>
+         <author>
+            <firstName>Matúš</firstName>
+            <surname>Ocilka</surname>
+         </author>
+      </authors>
+      <title>High Frequency Converter for Induction Heating</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Theoretical and Industrial Electrical Engineering</department>
+   </paper>
+   <paper filename="87.pdf">
+      <authors>
+         <author>
+            <firstName>Dávid</firstName>
+            <surname>Cymbalák</surname>
+         </author>
+      </authors>
+      <title>Extended Multi-camera Tracking and Stream Control Model Based on Predictive Shoot Evaluation Metric</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="88.pdf">
+      <authors>
+         <author>
+            <firstName>Stanislav</firstName>
+            <surname>Dvorščák</surname>
+         </author>
+      </authors>
+      <title>Knowledge Revision in Dynamic Semantic Network</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="89.pdf">
+      <authors>
+         <author>
+            <firstName>Veronika</firstName>
+            <surname>Szabóová</surname>
+         </author>
+      </authors>
+      <title>Hypotheses on a self-healing system architecture</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="90.pdf">
+      <authors>
+         <author>
+            <firstName>Jozef</firstName>
+            <surname>Dudiak</surname>
+         </author>
+      </authors>
+      <title>The Overview of the Smart Grid Landscape in Europe and Beyond</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electric Power Engineering</department>
+   </paper>
+   <paper filename="91.pdf">
+      <authors>
+         <author>
+            <firstName>Michal</firstName>
+            <surname>Puheim</surname>
+         </author>
+      </authors>
+      <title>Introduction to Modeling of Complex Systems Using Fuzzy Cognitive Maps</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="92.pdf">
+      <authors>
+         <author>
+            <firstName>František</firstName>
+            <surname>Rakoci</surname>
+         </author>
+      </authors>
+      <title>Automatic Traffic Signs Inventory System with use of Optical Correlator</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="93.pdf">
+      <authors>
+         <author>
+            <firstName>Jakub</firstName>
+            <surname>Livovský</surname>
+         </author>
+      </authors>
+      <title>Patterns in Computer Languages and Their Relation to Programming Paradigms: a Survey</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="94.pdf">
+      <authors>
+         <author>
+            <firstName>Matej</firstName>
+            <surname>Ziga</surname>
+         </author>
+      </authors>
+      <title>Design of differential amplifier for UWB application</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="95.pdf">
+      <authors>
+         <author>
+            <firstName>Daniel</firstName>
+            <surname>Novák</surname>
+         </author>
+      </authors>
+      <title>UWB Radar Systems Applied in Complex Environment</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="96.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Ivančák</surname>
+         </author>
+      </authors>
+      <title>Creation of 3D models, 3D reconstruction methods</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="97.pdf">
+      <authors>
+         <author>
+            <firstName>Emília</firstName>
+            <surname>Demeterová</surname>
+         </author>
+      </authors>
+      <title>The role of predicate linear logic in computer science</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="98.pdf">
+      <authors>
+         <author>
+            <firstName>Michal</firstName>
+            <surname>Kopčík</surname>
+         </author>
+      </authors>
+      <title>Multisensor data fusion for differential wheeled mobile robots</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="99.pdf">
+      <authors>
+         <author>
+            <firstName>Adrián</firstName>
+            <surname>Pekár</surname>
+         </author>
+      </authors>
+      <title>Adaptive Export of Information about Network Flows</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="100.pdf">
+      <authors>
+         <author>
+            <firstName>Jan</firstName>
+            <surname>Valiska</surname>
+         </author>
+      </authors>
+      <title>Smoothing of UWB radar localization output using particle filter</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electronics and Multimedia Communications</department>
+   </paper>
+   <paper filename="101.pdf">
+      <authors>
+         <author>
+            <firstName>Roman</firstName>
+            <surname>Mihaľ</surname>
+         </author>
+      </authors>
+      <title>Incident management as a support system for decision making and control</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="103.pdf">
+      <authors>
+         <author>
+            <firstName>Emília</firstName>
+            <surname>Pietriková</surname>
+         </author>
+      </authors>
+      <title>Abstraction and Generation in Functional Languages</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="104.pdf">
+      <authors>
+         <author>
+            <firstName>Daniel</firstName>
+            <surname>Magura</surname>
+         </author>
+      </authors>
+      <title>Drum shear control</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Electrical Engineering and Mechatronics</department>
+   </paper>
+   <paper filename="105.pdf">
+      <authors>
+         <author>
+            <firstName>David</firstName>
+            <surname>Vaníček</surname>
+         </author>
+         <author>
+            <firstName>Ivan</firstName>
+            <surname>Halupka</surname>
+         </author>
+      </authors>
+      <title>Mobile application for OpenConf System</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="106.pdf">
+      <authors>
+         <author>
+            <firstName>Ivan</firstName>
+            <surname>Halupka</surname>
+         </author>
+      </authors>
+      <title>Automated Refactoring of Context-free Grammars</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="107.pdf">
+      <authors>
+         <author>
+            <firstName>Jakub</firstName>
+            <surname>Čerkala</surname>
+         </author>
+      </authors>
+      <title>Modeling and control of robotic systems</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="108.pdf">
+      <authors>
+         <author>
+            <firstName>Peter</firstName>
+            <surname>Papcun</surname>
+         </author>
+      </authors>
+      <title>Industrial robot trajectories, speed and accuracy</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="109.pdf">
+      <authors>
+         <author>
+            <firstName>Matej</firstName>
+            <surname>Čopík</surname>
+         </author>
+      </authors>
+      <title>From design to realization of production line with respect to optimize the time of production</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="110.pdf">
+      <authors>
+         <author>
+            <firstName>Slávka</firstName>
+            <surname>Jadlovská</surname>
+         </author>
+      </authors>
+      <title>Underactuated Mechanical Systems: Recent Findings and Future Challenges</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Cybernetics and Artificial Intelligence</department>
+   </paper>
+   <paper filename="111.pdf">
+      <authors>
+         <author>
+            <firstName>Dušan</firstName>
+            <surname>Janovský</surname>
+         </author>
+      </authors>
+      <title>Software and hardware interfaces of VR editors</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="112.pdf">
+      <authors>
+         <author>
+            <firstName>Róbert</firstName>
+            <surname>Peťka</surname>
+         </author>
+      </authors>
+      <title>Advanced 3D Interfaces in Virtual Reality Environments</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+   <paper filename="113.pdf">
+      <authors>
+         <author>
+            <firstName>Marek</firstName>
+            <surname>Čajkovský</surname>
+         </author>
+      </authors>
+      <title>Abstraction of Assembly Code Using Finite State Machines</title>
+      <presentationForm>POSTER</presentationForm>
+      <section>IT</section>
+      <department>Dept. of Computers and Informatics</department>
+   </paper>
+</papers>

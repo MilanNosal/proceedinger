@@ -1,0 +1,108 @@
+
+Nastroj 'proceedinger' pripravuje hlavnu strukturu dokumentov potrebnych pre finalne zlozenie zbornika.
+
+Pusta sa z prikazoveho riadku a berie nasledovne prepinace (maju predvolene hodnoty a tak staci zadat tie, ktore
+sa lisia v konkretnom pripade):
+
+-blankPdf
+    Nastavuje cestu (relativnu) k pdfku s jednou cistou stranou. Ta sa pouziva na vyplnenie miest v skombinovanom
+    pdfku na miestach, pre ktore sa generuje .tex (tzn. tam kde ma byt obsah a index autorov).
+    Predvolena hodnota je "blank.pdf".
+
+
+-titlePdf
+    Nastavuje cestu (relativnu) k pdfku s titulnou stranou/stranami. Toto pdf sa vlozi na zaciatok skombinovaneho pdf.
+    Pre titulne strany sa cislovanie nepocita.
+    Predvolena hodnota je "title.pdf".
+
+-titleLength
+    Tento prepinac nastavuje dlzku titulnej/titulnych stran (tieto sa nerataju do cislovania stran).
+    Predvolena hodnota je 1.
+    Aktualne uz nepodporovane, dlzka sa pocita dynamicky z pdfka.
+
+
+-introductionPdf
+    Nastavuje cestu (relativnu) k pdfku s uvodnymi stranami. Toto pdf sa vlozi na zaciatok skombinovaneho pdf za titulnu
+    stranu/strany. Pre uvodne strany sa zacina pocitat cislovanie od hodnoty 1, avsak cisla stran sa nezobrazuju, zacnu sa
+    zobrazovat az pri uvode.
+    Predvolena hodnota je "introduction.pdf".
+
+-introductionLength
+    Za tymto prepinacom ma nasledovat cislo vyjadrujuce dlzku uvodu zbornika v stranach (sponzori, predslov, atd.),
+    nerata sa titulna strana.
+    Predvolena hodnota je 1.
+    Aktualne uz nepodporovane, dlzka sa pocita dynamicky z pdfka.
+
+
+-endingPdf
+    Nastavuje cestu (relativnu) k pdfku s tirazou. Toto pdf sa vlozi na uplny koniec skombinovaneho pdf za vsetky clanky
+    a prazdne strany ponechane pre index autorov. Pre tiraz uz nie je generovane cislovanie.
+    Predvolena hodnota je "ending.pdf".
+
+-endingLength
+    Nastavuje dlzku tiraze (posledne strany zbornika).
+    Predvolena hodnota je 1.
+    Aktualne uz nepodporovane, dlzka sa pocita dynamicky z pdfka.
+
+
+-contentsLength
+    Nastavuje dlzku obsahu v stranach. Je potrebne nastavit pre spravne spojenie skombinovaneho pdfka. Pre tento
+    prepinac je potrebne nastroj spustit minimalne dvakrat. Prvykrat aby sa nam vygeneroval .tex subor s obsahom, ten
+    treba pozriet kolko stran ma obsah a nastavit tuto hodnotu spravne.
+    Predvolena hodnota je 1.
+
+-indexLength
+    Nastavuje dlzku indexu autorov v stranach. Zvycajne ide o jednu stranu, takze predvolena hodnota staci.Pre tento
+    prepinac je potrebne nastroj spustit minimalne dvakrat. Prvykrat aby sa nam vygeneroval .tex subor aj s indexom, ten
+    treba pozriet kolko stran ma index autorov a nastavit tuto hodnotu spravne.
+    Predvolena hodnota je 1.
+
+
+-inputXML
+    Nastavuje cestu (relativnu) k vstupnemu XML suboru so zoznamom prijatych prispevkov. Pre format vstupneho XML vid
+    papers.xsd (definicia jazyka) a vzor.xml (vzorovy dokument). Podla tohto dokumentu sa vykonava cele generovanie.
+    Predvolena hodnota je "input.xml".
+
+-sort
+    Priznak bez parametrov ci sa ma zoznam prispevkov zoradit podla abecedy. IT sekcia ma prednost pred EEE a prezentacia
+    ustnou formou (Oral) ma prednost pred postermi.
+    Predvolene sa nezoradzuje ale pouzije sa poradie definovane vstupnym XML suborom.
+
+-encoding
+    Nastavuje kodovanie textovych suborov (XML a tex).
+    Predvolene sa pouziva UTF8.
+
+-papersFolder
+    Nastavuje cestu (relativnu) k vstupnemu priecinku s prispevkami. Z tohto priecinka sa beru vsetky prispevky. Nazvy
+    prispevkov su definovane vo vstupnom XML subore a tak isto aj nazvy dokumentov s prispevkami, avsak pred kazdy
+    nazov dokumentu sa priradi este tato hodnota. Napr. ak je prispevok s dokumentom "12.pdf", a tento prepinac je
+    nastaveny na "papers", tak program hlada dokument na relativnej ceste "papers/12.pdf" (lomitko medzi cestou a
+    nazvom dokumentu doplni sam).
+    Predvolena hodnota je "papers".
+
+
+-outputXML
+    Nastavuje cestu (relativnu) k vystupnemu .xml suboru, ktory je v podstate len prepis vstupneho XML suboru. Vypisuje
+    ho ale po zoradeni, co znamena ze je ho mozne pouzit na vstup v pripade, ze chceme nejake vlastne poradie ale zalozene
+    na poradi podla abecedy.
+    Predvolena hodnota je "output.xml".
+
+-outputTex
+    Nastavuje cestu (relativnu) k vystupnemu .tex suboru, ktory ma vygenerovany obsah a index (a titulne strany pre sekcie),
+    pomedzi to su prazdne strany s cislovanim a kotvami, na ktore sa odkazuje aj index aj obsah klikatelnymi linkami.
+    Tento dokument treba latexom buildnut na pdf a potom nejakym nastrojom (napr. pdftk) prekryt buildnuty output.pdf
+    so skombinovanym pdfkom s clankami, tirazou, titlkou a uvodom. Prekrytim sa vytvori finalny zbornik.
+    Predvolena hodnota je "output.tex".
+
+-combinedOutputPdf
+    Nastavuje cestu (relativnu) k vystupnemu .pdf suboru, ktory je skombinovany z titulky, uvodu, prazdnych stran tam,
+    kde ma byt obsah, clankami a prazdnymi stranami pre titulne stranky sekcii, opat prazdnych stran kde ma byt index a
+    napokon tiraze. Tento dokument sa nakoniec prekryje s vystupom z .tex suboru (kombinovane pdf ma ist na spodok,
+    tex vystup na vrch, aby linky boli klikatelne).
+    Predvolena hodnota je "combined.pdf".
+
+-proceedingsHeader
+    Nastavuje hlavicku zbornika, text treba uviest do uvodzoviek. Mozne pouzivat LaTeX znacky. Napr.
+    "SCYR 2014 – 14\textit{$^{th}$} Scientific Conference of Young Researchers – FEI TU of Ko\v{s}ice".
+    Predvoleny je prazdny retazec.
+

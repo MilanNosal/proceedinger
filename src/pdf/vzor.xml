@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<papers xmlns="http://kpi.fei.tuke.sk/scyr/nosal/papers"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://kpi.fei.tuke.sk/scyr/nosal/papers papers.xsd">
+
+    <!-- VZOROVY DOKUMENT, vystup musi byt validovany schemou papers.xsd, tu este rozsirim,
+    ale len tam pridam nieco, co nie je odvoditelne zo systemu, teda zmeny sa toho co
+    ma system generovat nijako nedotknu. Vystup zo systemu ma byt v takejto forme. -->
+    <paper pages="4" filename="attOP.pdf">
+        <authors>
+            <author>
+                <firstName>Milan</firstName>
+                <surname>Nosáľ</surname>
+            </author>
+            <author>
+                <firstName>Emília</firstName>
+                <surname>Pietriková</surname>
+            </author>
+        </authors>
+        <title>Attribute-oriented Programming</title>
+        <presentationForm>ORAL</presentationForm>
+        <section>IT</section>
+        <department>KPI</department>
+    </paper>
+    <paper pages="5" filename="architecture.pdf">
+        <authors>
+            <author>
+                <firstName>Ivan</firstName>
+                <surname>Halupka</surname>
+            </author>
+        </authors>
+        <title>Architectonic Patterns in Software Development Process</title>
+        <presentationForm>POSTER</presentationForm>
+        <section>EEE</section>
+        <department>KTEEM</department>
+    </paper>
+</papers>

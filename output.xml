@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><papers xmlns="http://kpi.fei.tuke.sk/scyr/nosal/papers" xsi:schemaLocation="http://kpi.fei.tuke.sk/scyr/nosal/papers papers.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <paper filename="3.pdf">
+        <authors>
+            <author>
+                <firstName>Ivan</firstName>
+                <surname>Halupkasdfasdf</surname>
+            </author>
+        </authors>
+        <title>Architectonic Pafdsfsdafsdstterns in Software Development Process</title>
+        <presentationForm>POSTER</presentationForm>
+        <section>EEE</section>
+        <department>KTEEM</department>
+    </paper>
+    <paper filename="2.pdf">
+        <authors>
+            <author>
+                <firstName>Ivan</firstName>
+                <surname>Halupka</surname>
+            </author>
+        </authors>
+        <title>Architectonic Patterns in Software Development Process</title>
+        <presentationForm>POSTER</presentationForm>
+        <section>EEE</section>
+        <department>KTEEM</department>
+    </paper>
+    <section id="IT" form="POSTER" priority="5" presentationPriority="-1">
+        <fullTitle>fdsafsdafdsa</fullTitle>
+    </section>
+    <paper filename="1.pdf">
+        <authors>
+            <author>
+                <firstName>Milan</firstName>
+                <surname>Nosáľ</surname>
+            </author>
+            <author>
+                <firstName>Emília</firstName>
+                <surname>Pietriková</surname>
+            </author>
+        </authors>
+        <title>Attribute-oriented Programming</title>
+        <presentationForm>ORAL</presentationForm>
+        <section>IT</section>
+        <department>KPI</department>
+    </paper>
+</papers>

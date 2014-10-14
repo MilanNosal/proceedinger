@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://kpi.fei.tuke.sk/scyr/nosal/papers"
+           xmlns="http://kpi.fei.tuke.sk/scyr/nosal/papers"
+           elementFormDefault="qualified">
+    <xs:element name="papers" type="papersType" />
+    
+    <xs:complexType name="papersType">
+        <!-- Zoznam clankov, ktory moze byt prazdny alebo ich moze byt mnoho -->
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="paper" type="paperType" />
+            <xs:element name="section" type="sectionDefType" />
+        </xs:choice>
+    </xs:complexType>
+    
+    <xs:complexType name="paperType">
+        <!-- Kazdy clanok ma nasledujuce podelementy prave raz -->
+        <xs:sequence minOccurs="1" maxOccurs="1">
+            <!-- Zoznam autorov (POZOR, musi sediet poradie lebo je dolezite) -->
+            <xs:element name="authors" type="authorsType" />
+            <!-- Nazov clanku -->
+            <xs:element name="title" type="xs:string" />
+            <!-- Forma prezentacie, bud ORAL alebo POSTER, ak nie je definovane tak UNDEFINED -->
+            <xs:element name="presentationForm" type="presentationFormType" />
+            <!-- Sekcia do ktorej je clanok priradeny -->
+            <xs:element name="section" type="sectionType" />
+            <!-- Nazov katedry prveho autora -->
+            <xs:element name="department" type="xs:string" />
+        </xs:sequence>
+        <!-- A musi mat definovane aj tieto atributy, pages je pocet stran, filename je nazov suboru s clankom -->
+        <xs:attribute name="pages" type="xs:integer" use="optional" />
+        <xs:attribute name="filename" type="xs:string" use="required" />
+    </xs:complexType>
+    
+    <xs:complexType name="authorsType">
+        <!-- Ako som uz pisal, zoznam autorov podla poradia na clanku -->
+        <xs:sequence minOccurs="1" maxOccurs="unbounded">
+            <xs:element name="author" type="authorType" />
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="authorType">
+        <!-- Jeden autor je definovany svojim menom -->
+        <xs:sequence minOccurs="1" maxOccurs="1">
+            <!-- Meno -->
+            <xs:element name="firstName" type="xs:string"/>
+            <!-- Stredne meno niekto mat moze, ale je to volitelne, teda nemusi v XML takyto element byt -->
+            <xs:element name="middleName" type="xs:string" minOccurs="0"/>
+            <!-- Priezvisko -->
+            <xs:element name="surname" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:simpleType name="presentationFormType">
+        <!-- Prezentacna forma moze mat len jednu z nasledujucich hodnot -->
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ORAL" />
+            <xs:enumeration value="POSTER" />
+            <xs:enumeration value="UNDEFINED"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="sectionType">
+        <!-- A sekcia moze byt len jedna z tychto dvoch -->
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="IT" />
+            <xs:enumeration value="EEE" />
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="sectionDefType">
+        <!-- Je moznost nastavit co sa vypise v zborniku pru sekcii a jej forme -->
+        <xs:sequence minOccurs="1" maxOccurs="1">
+            <xs:element name="fullTitle" type="xs:string" minOccurs="0"/>
+            <xs:element name="fullForm" type="xs:string" minOccurs="0"/>
+        </xs:sequence>
+        <!-- Musi sa uviest iba id sekcie -->
+        <xs:attribute name="id" type="sectionType" use="required" />
+		<!-- Mozne uviest formu prezentacie (POSTER, ORAL) -->
+        <xs:attribute name="form" type="presentationFormType" use="optional" />
+		<!-- IT sekcia je predvolene prva, mozne uviest roznu prioritu (vyssie cislo je mensia priorita) -->
+        <xs:attribute name="priority" type="xs:integer" use="optional" />
+		<!-- Podobne v pripade roznych foriem prezentacie je mozne uviest prioritu -->
+        <xs:attribute name="presentationPriority" type="xs:integer" use="optional" />
+    </xs:complexType>
+</xs:schema>
