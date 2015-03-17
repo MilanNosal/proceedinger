@@ -1,0 +1,1 @@
+The tool can be used to simplify preparation of the proceedings of a conference.
